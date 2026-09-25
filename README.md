@@ -1,4 +1,4 @@
-# Personal Portifolio
+# Personal Portfolio
 🟡 In production
 
 Personal portfolio showcasing my projects, experience, and skills in software development.
